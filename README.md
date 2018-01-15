@@ -5,10 +5,14 @@
 4. Deploy 'MarketPlaceService' on the server.
 
 API's.
- #Creating a project : http://localhost:8080/market-place/service/project/create 
- #Creating a bid for the project : http://localhost:8080/market-place/service/project/bid
- #Get all open projects : http://localhost:8080/market-place/service/project/openProjects
- #Get a project by id : http://localhost:8080/market-place/service/project
+ #Creating a project 
+    http://localhost:8080/market-place/service/project/create 
+ #Creating a bid for the project 
+    http://localhost:8080/market-place/service/project/bid
+ #Get all open projects 
+    http://localhost:8080/market-place/service/project/openProjects
+ #Get a project by id 
+    http://localhost:8080/market-place/service/project
 
 Access to API's via Curl:
 
