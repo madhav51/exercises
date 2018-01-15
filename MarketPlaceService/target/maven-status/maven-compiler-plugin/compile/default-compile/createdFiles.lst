@@ -1,0 +1,8 @@
+com/test/marketplace/dao/UserDAO.class
+com/test/marketplace/ProjectService.class
+com/test/marketplace/bean/ProjectBid.class
+com/test/marketplace/bean/Project.class
+com/test/marketplace/dao/ProjectBidDAO.class
+com/test/marketplace/util/ModelUtils.class
+com/test/marketplace/util/ServiceUtils.class
+com/test/marketplace/dao/ProjectDAO.class
